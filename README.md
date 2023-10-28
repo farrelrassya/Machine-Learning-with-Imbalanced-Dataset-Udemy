@@ -1,7 +1,7 @@
 # Machine-Learning-with-Imbalanced-Dataset-Udemy
 Multiple techniques which you can use with imbalanced datasets to improve the performance of your machine learning models.
 
-<a style="width: 200px" href="(https://www.udemy.com/share/103L7G3@9PQbOG4ss9fAzTpCO9tzlUQBRF7GOwkvQnS8VCrJihC4jwf_caw-2IdXHKhJ4g2bog==/)"><img alt="Introduction to Machine Learning with Python Cover" src="./cover.jpeg" style="width: 200px; height: auto; padding: 10px;"></a>
+<a style="width: 200px" href="(https://www.udemy.com/share/103L7G3@9PQbOG4ss9fAzTpCO9tzlUQBRF7GOwkvQnS8VCrJihC4jwf_caw-2IdXHKhJ4g2bog==/)"><img alt="Introduction to Machine Learning with Python Cover" src="./cover.png" style="width: 200px; height: auto; padding: 10px;"></a>
 
 
 
