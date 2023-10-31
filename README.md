@@ -18,7 +18,7 @@ step-by-step through engaging video tutorials and teach everything you need to k
 
 5. The appropriate metrics to evaluate model performance on imbalanced datasets
 
-<img src="./PrecisionandRecall1.png" alt="Precision and Recall" style="width: 200px; height: auto; padding: 100px;">
+<img src="./PrecisionandRecall1.png" alt="Precision and Recall" style="width: 500px; height: auto; padding: 300px;">
 
-<img src="./PrecisionandRecall2.png" alt="Precision and Recall" style="width: 200px; height: auto; padding: 100px;">
+<img src="./PrecisionandRecall2.png" alt="Precision and Recall" style="width: 500px; height: auto; padding: 300px;">
 
