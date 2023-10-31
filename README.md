@@ -17,3 +17,7 @@ step-by-step through engaging video tutorials and teach everything you need to k
 4. Cost sensitive methods which penalize wrong decisions more severely for minority classes
 
 5. The appropriate metrics to evaluate model performance on imbalanced datasets
+
+<a style="width: 200px"  alt="Precision and Recall" src="./PrecisionandRecall1.png" style="width: 500px; height: auto; padding: 100px;"></a>
+
+<a style="width: 200px"  alt="Precision and Recall" src="./PrecisionandRecall2.png" style="width: 500px; height: auto; padding: 100px;"></a>
