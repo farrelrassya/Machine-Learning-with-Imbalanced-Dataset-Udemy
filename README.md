@@ -24,3 +24,5 @@ step-by-step through engaging video tutorials and teach everything you need to k
 
 <img src="./indexofimbalanced.png" alt="Index of Imbalanced" style="width: 500px; height: auto; padding: 300px;">
 
+<img src="./roc.png" alt="ROC" style="width: 500px; height: auto; padding: 300px;">
+
