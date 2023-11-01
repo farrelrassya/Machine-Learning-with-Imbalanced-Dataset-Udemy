@@ -22,3 +22,5 @@ step-by-step through engaging video tutorials and teach everything you need to k
 
 <img src="./PrecisionandRecall2.png" alt="Precision and Recall" style="width: 500px; height: auto; padding: 300px;">
 
+<img src="./indexofimbalanced.png" alt="Index of Imbalanced" style="width: 500px; height: auto; padding: 300px;">
+
